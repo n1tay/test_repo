@@ -34,3 +34,5 @@ def rotateString3(s, goal):
 
 def rotate(s, rounds):
     return s[rounds:] + s[:rounds]
+
+#some documentation
